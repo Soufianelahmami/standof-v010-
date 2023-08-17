@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"It seems like you might be referring to "Standoff 2," which is a popular first-person shooter (FPS) video game developed by Axlebolt. ","photo":"https://iili.io/HDDO0sj.webp"},
+  {"title":"title2 ser","desc":"As of my last update in September 2021, Standoff 2 is a sequel to the original Standoff game and offers intense multiplayer gameplay in various modes.","photo":"https://iili.io/HDDOMgV.webp"},
+  {"title":"title3 ser","desc":"Standoff 2 is a fast-paced first-person shooter (FPS) video game that immerses players in intense multiplayer combat scenarios","photo":"https://iili.io/HDDOG0Q.webp"},
+  {"title":"title4 ser","desc":"Developed by Axlebolt, this game builds upon the success of the original Standoff and aims to provide an improved and enhanced gaming experience.","photo":"https://iili.io/HDDOEqx.webp"},
+  {"title":"title5 ser","desc":"Multiple Game Modes: Standoff 2 offers various game modes, including Deathmatch, Defuse the Bomb (similar to Counter-Strike's gameplay), Capture the Flag, and more","photo":"https://iili.io/HDDOX5P.webp"},
+  {"title":"title6 ser","desc":"Each mode presents unique challenges and objectives.","photo":"https://iili.io/HDDOjmF.webp"},
+  {"title":"title7 ser","desc":"Diverse Weapons Arsenal: The game features a wide range of weapons, from pistols and rifles to shotguns and sniper rifles","photo":"https://iili.io/HDDOhe1.webp"},
+  {"title":"title8 ser","desc":"Players can customize their loadouts to suit their preferred playstyle.","photo":"https://iili.io/HDDOWdB.webp"}
    ]
  
 }
